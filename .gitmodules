@@ -19,3 +19,6 @@
 [submodule "ProcessExportProfile"]
 	path = ProcessExportProfile
 	url = git@github.com:ryancramerdesign/ProcessExportProfile.git
+[submodule "ProcessHannaCode"]
+	path = ProcessHannaCode
+	url = git@github.com:ryancramerdesign/ProcessHannaCode.git
