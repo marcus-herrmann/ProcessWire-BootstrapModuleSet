@@ -1,0 +1,21 @@
+[submodule "AdminHotKeys"]
+	path = AdminHotKeys
+	url = git@github.com:somatonic/AdminHotKeys.git
+[submodule "MarkupSimpleNavigation"]
+	path = MarkupSimpleNavigation
+	url = git@github.com:somatonic/MarkupSimpleNavigation.git
+[submodule "ManageFiles"]
+	path = ManageFiles
+	url = git@github.com:NicoKnoll/ManageFiles.git
+[submodule "Thumbnails"]
+	path = Thumbnails
+	url = git@github.com:apeisa/Thumbnails.git
+[submodule "ProcessBatcher"]
+	path = ProcessBatcher
+	url = git@github.com:wanze/ProcessBatcher.git
+[submodule "InputfieldCKEditor"]
+	path = InputfieldCKEditor
+	url = git@github.com:ryancramerdesign/InputfieldCKEditor.git
+[submodule "ProcessExportProfile"]
+	path = ProcessExportProfile
+	url = git@github.com:ryancramerdesign/ProcessExportProfile.git
