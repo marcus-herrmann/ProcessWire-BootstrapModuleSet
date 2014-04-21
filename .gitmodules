@@ -25,3 +25,6 @@
 [submodule "pw-admin-custom-pages"]
 	path = pw-admin-custom-pages
 	url = git@github.com:NicoKnoll/pw-admin-custom-pages.git
+[submodule "ProcessPageTreeMigrator"]
+	path = ProcessPageTreeMigrator
+	url = git@github.com:adrianbj/ProcessPageTreeMigrator.git
