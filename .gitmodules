@@ -28,3 +28,6 @@
 [submodule "ProcessPageTreeMigrator"]
 	path = ProcessPageTreeMigrator
 	url = git@github.com:adrianbj/ProcessPageTreeMigrator.git
+[submodule "TemplateNotes"]
+	path = TemplateNotes
+	url = https://github.com/somatonic/TemplateNotes
