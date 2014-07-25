@@ -31,3 +31,6 @@
 [submodule "TemplateNotes"]
 	path = TemplateNotes
 	url = https://github.com/somatonic/TemplateNotes
+[submodule "MarkupSitemapXML"]
+	path = MarkupSitemapXML
+	url = https://github.com/Notanotherdotcom/MarkupSitemapXML
